@@ -1,3 +1,11 @@
+# TODO
+- [x] builder
+- [x] debug
+- [ ] review code with `cargo clippy`
+- [ ] seq
+- [ ] sorted
+- [ ] bitfield
+
 # Rust Latam: procedural macros workshop
 
 *This repo contains a selection of projects designed to learn to write Rust
